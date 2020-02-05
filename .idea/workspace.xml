@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50da24cf-ad93-423f-99e1-102a37e7b653" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="headfirstpractice" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TFcywU3hCYDURwRmIovqJ8uYhq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.bob">
+    <configuration name="ClockTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClockTestDrive" />
+      <module name="headfirstpractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solutions" />
+      <module name="headfirstpractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bob" />
+      <module name="headfirstpractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clock" />
+      <module name="headfirstpractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clocky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clocky" />
+      <module name="headfirstpractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bob" />
+        <item itemvalue="Application.clock" />
+        <item itemvalue="Application.clocky" />
+        <item itemvalue="Application.ClockTestDrive" />
+        <item itemvalue="Application.Solutions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50da24cf-ad93-423f-99e1-102a37e7b653" name="Default Changelist" comment="" />
+      <created>1573059541648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573059541648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="107" key="#Project_Structure" timestamp="1578330377723">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="313" y="107" key="#Project_Structure/720.-1057.1920.984/-1200.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578330377723" />
+    <state x="486" y="325" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578190519348">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="486" y="325" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1286.-1057.1920.1057/634.-1057.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578190519348" />
+    <state x="458" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578189822003">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="458" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1286.-1057.1920.1057/634.-1057.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578189822003" />
+    <state width="797" height="266" key="GridCell.Tab.0.bottom" timestamp="1578330060940">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="798" height="244" key="GridCell.Tab.0.bottom/-1286.-1057.1920.1057/634.-1057.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578249456752" />
+    <state width="797" height="266" key="GridCell.Tab.0.bottom/720.-1057.1920.984/-1200.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578330060940" />
+    <state width="797" height="266" key="GridCell.Tab.0.center" timestamp="1578330060938">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="798" height="244" key="GridCell.Tab.0.center/-1286.-1057.1920.1057/634.-1057.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578249456751" />
+    <state width="797" height="266" key="GridCell.Tab.0.center/720.-1057.1920.984/-1200.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578330060938" />
+    <state width="797" height="266" key="GridCell.Tab.0.left" timestamp="1578330060937">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="798" height="244" key="GridCell.Tab.0.left/-1286.-1057.1920.1057/634.-1057.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578249456748" />
+    <state width="797" height="266" key="GridCell.Tab.0.left/720.-1057.1920.984/-1200.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578330060937" />
+    <state width="797" height="266" key="GridCell.Tab.0.right" timestamp="1578330060939">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="798" height="244" key="GridCell.Tab.0.right/-1286.-1057.1920.1057/634.-1057.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578249456751" />
+    <state width="797" height="266" key="GridCell.Tab.0.right/720.-1057.1920.984/-1200.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578330060939" />
+    <state x="214" y="80" key="SettingsEditor" timestamp="1578330059470">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="214" y="80" key="SettingsEditor/720.-1057.1920.984/-1200.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578330059470" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1580927090566">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/-1286.-1057.1920.1057/634.-1057.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578188276665" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/-1360.-1057.1920.1057/560.-1057.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1580927090566" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/-1360.-1057.1920.1057/560.-1057.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1578408905065" />
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup" timestamp="1578192343530">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup/-1286.-1057.1920.1057/634.-1057.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578192343530" />
+  </component>
+</project>
